@@ -1,4 +1,4 @@
--                                       Hi, I'm Muhammad Usman, a web application enthusiast 👨‍💻
+-                                       Hi, I'm Muhammad Usman
 - 👀 I’m interested in building Web Applications
 - 💞️ I’m looking to collaborate on WEB Development
 - 🧠  I'm learning full stack development
