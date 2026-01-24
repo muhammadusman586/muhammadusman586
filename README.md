@@ -1,20 +1,36 @@
-### Hey, I'm Usman 👋
+```js
+// usman.readme
 
-Software Engineer from Lahore, Pakistan — building clean, scalable web experiences.
+const usman = {
+  name: "Muhammad Usman Ramzan",
+  role: "Software Engineer",
+  location: "Lahore, Pakistan 🇵🇰",
+  bio: "Building clean, scalable web experiences"
+}
+```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadusman586&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=6B7280&icon_color=F59E0B" width="280"/>
 
-#### What I Work With
+```ts
+const stack = {
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", "Express", "Django"],
+  database: ["MongoDB", "PostgreSQL"],
+  tools: ["Git", "Tailwind", "VS Code"]
+}
+```
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,tailwind,git&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,django,mongodb,postgres,tailwind,git&theme=light&perline=5" />
 </p>
 
-#### Currently
-
-☕ Building enterprise Nextjs apps  
-🌱 Exploring AI in web development  
-✨ Shipping clean code daily
+```js
+const currently = {
+  building: "Enterprise Nextjs Apps",
+  exploring: "AI in Web Development",
+  motto: "Ship clean code daily ✨"
+}
+```
 
 ---
 
