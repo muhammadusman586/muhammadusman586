@@ -12,7 +12,7 @@ Software Engineer from Lahore, Pakistan — building clean, scalable web experie
 
 #### Currently
 
-☕ Building enterprise React apps  
+☕ Building enterprise Nextjs apps  
 🌱 Exploring AI in web development  
 ✨ Shipping clean code daily
 
