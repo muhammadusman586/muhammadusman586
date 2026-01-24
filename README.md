@@ -18,8 +18,10 @@ Software Engineer from Lahore, Pakistan — building clean, scalable web experie
 
 ---
 
-<sub>
-<a href="https://www.linkedin.com/in/muhammadusman586/">LinkedIn</a> · 
-<a href="mailto:muhammadusmanramzan586@gmail.com">Email</a> · 
-*Simple is better than complex* 🍃
-</sub>
+<p>
+<a href="https://www.linkedin.com/in/muhammadusman586/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muhammadusmanramzan586@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=muhammadusman586&style=flat&color=F59E0B&label=visitors"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F59E0B&height=8&section=footer" width="100%"/>
