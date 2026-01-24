@@ -26,7 +26,7 @@ const stack = {
 
 ```js
 const currently = {
-  building: "Enterprise React Apps",
+  building: "Enterprise Nextjs Apps",
   exploring: "AI in Web Development",
   motto: "Ship clean code daily ✨"
 }
