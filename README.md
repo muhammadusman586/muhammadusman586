@@ -26,7 +26,7 @@ const stack = {
 
 ```js
 const currently = {
-  building: "Enterprise Nextjs Apps",
+  building: "Enterprise React Apps",
   exploring: "AI in Web Development",
   motto: "Ship clean code daily ✨"
 }
@@ -36,6 +36,7 @@ const currently = {
 
 <p>
 <a href="https://www.linkedin.com/in/muhammadusman586/">linkedin</a> · 
+<a href="https://x.com/m_usman585">twitter</a> · 
 <a href="mailto:muhammadusmanramzan586@gmail.com">email</a> · 
 <a href="https://github.com/muhammadusman586">github</a>
 </p>
