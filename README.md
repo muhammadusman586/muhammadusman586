@@ -7,7 +7,7 @@ Software Engineer from Lahore, Pakistan — building clean, scalable web experie
 #### What I Work With
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,django,mongodb,postgres,tailwind,git&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,tailwind,git&theme=light&perline=5" />
 </p>
 
 #### Currently
@@ -19,9 +19,9 @@ Software Engineer from Lahore, Pakistan — building clean, scalable web experie
 ---
 
 <p>
-<a href="https://www.linkedin.com/in/muhammadusman586/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muhammadusmanramzan586@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=muhammadusman586&style=flat&color=F59E0B&label=visitors"/>
+<a href="https://www.linkedin.com/in/muhammadusman586/">linkedin</a> · 
+<a href="mailto:muhammadusmanramzan586@gmail.com">email</a> · 
+<a href="https://github.com/muhammadusman586">github</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F59E0B&height=8&section=footer" width="100%"/>
+*building cool stuff, one commit at a time* ☕
