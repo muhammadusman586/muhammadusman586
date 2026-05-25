@@ -1,44 +1,49 @@
-```js
-// usman.readme
+<div align="center">
 
-const usman = {
-  name: "Muhammad Usman Ramzan",
-  role: "Software Engineer",
-  location: "Lahore, Pakistan 🇵🇰",
-  bio: "Building clean, scalable web experiences"
-}
+<!-- Typing banner -->
+<a href="https://github.com/muhammadusman586">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usman+%F0%9F%91%8B;Software+Engineer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+clean%2C+scalable+web+experiences" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+```bash
+$ whoami
+> Muhammad Usman Ramzan — Software Engineer
+
+$ cat focus.txt
+> Crafting fast, scalable web apps with clean code
+
+$ ls ~/now
+> building/    Enterprise Next.js apps
+> exploring/   AI in web development
+> shipping/    clean code, daily ✨
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadusman586&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=6B7280&icon_color=F59E0B" width="280"/>
+<br/>
 
-```ts
-const stack = {
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express", "Django"],
-  database: ["MongoDB", "PostgreSQL"],
-  tools: ["Git", "Tailwind", "VS Code"]
-}
-```
+### Tech I reach for
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,django,mongodb,postgres,tailwind,git&theme=light&perline=5" />
-</p>
+`React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `Django`
+`MongoDB` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Tailwind` &nbsp;·&nbsp; `Git`
 
-```js
-const currently = {
-  building: "Enterprise Nextjs Apps",
-  exploring: "AI in Web Development",
-  motto: "Ship clean code daily ✨"
-}
-```
+<br/>
 
----
+### By the numbers
 
-<p>
-<a href="https://www.linkedin.com/in/muhammadusman586/">linkedin</a> · 
-<a href="https://x.com/m_usman585">twitter</a> · 
-<a href="mailto:muhammadusmanramzan586@gmail.com">email</a> · 
-<a href="https://github.com/muhammadusman586">github</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadusman586&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=6B7280&icon_color=F59E0B" width="380"/>
 
-*building cool stuff, one commit at a time* ☕
+<br/>
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=F59E0B)](https://www.linkedin.com/in/muhammadusman586/)
+[![Twitter](https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=x&logoColor=F59E0B)](https://x.com/m_usman585)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=F59E0B)](mailto:muhammadusmanramzan586@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=F59E0B)](https://github.com/muhammadusman586)
+
+<br/>
+
+<sub><i>building cool stuff, one commit at a time</i> ☕</sub>
