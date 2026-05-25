@@ -1,49 +1,58 @@
 <div align="center">
 
-<!-- Typing banner -->
-<a href="https://github.com/muhammadusman586">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usman+%F0%9F%91%8B;Software+Engineer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+clean%2C+scalable+web+experiences" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=F59E0B&center=true&vCenter=true&width=600&height=60&lines=Muhammad+Usman+Ramzan;Software+Engineer+%C2%B7+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+clean%2C+scalable+web+experiences" alt="Muhammad Usman Ramzan" />
+
+<br/>
+<br/>
+
+`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Django` &nbsp; `PostgreSQL`
+
+<br/>
 
 </div>
 
 <br/>
 
-```bash
-$ whoami
-> Muhammad Usman Ramzan — Software Engineer
+<div align="center">
 
-$ cat focus.txt
-> Crafting fast, scalable web apps with clean code
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadusman586&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=6B7280&icon_color=F59E0B&title_color=F59E0B" height="170"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=muhammadusman586&hide_border=true&background=00000000&stroke=6B7280&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=6B7280&dates=6B7280&currStreakNum=6B7280&sideNums=6B7280&dayLabels=6B7280" height="170"/>
 
-$ ls ~/now
-> building/    Enterprise Next.js apps
-> exploring/   AI in web development
-> shipping/    clean code, daily ✨
-```
+</div>
 
 <br/>
 
-### Tech I reach for
+<div align="center">
 
-`React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `Django`
-`MongoDB` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Tailwind` &nbsp;·&nbsp; `Git`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusman586&layout=compact&hide_border=true&bg_color=00000000&text_color=6B7280&title_color=F59E0B&langs_count=8" height="150"/>
 
-<br/>
-
-### By the numbers
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadusman586&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=6B7280&icon_color=F59E0B" width="380"/>
+</div>
 
 <br/>
 
-### Find me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=F59E0B)](https://www.linkedin.com/in/muhammadusman586/)
-[![Twitter](https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=x&logoColor=F59E0B)](https://x.com/m_usman585)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=F59E0B)](mailto:muhammadusmanramzan586@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=F59E0B)](https://github.com/muhammadusman586)
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadusman586&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
 
 <br/>
+<br/>
 
-<sub><i>building cool stuff, one commit at a time</i> ☕</sub>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F59E0B)](https://www.linkedin.com/in/muhammadusman586/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=F59E0B)](https://x.com/m_usman585)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:muhammadusmanramzan586@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/muhammadusman586)
+
+<br/>
+<br/>
+
+<sub><i>Building cool stuff, one commit at a time</i> ☕</sub>
+
+</div>
