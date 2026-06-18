@@ -11,18 +11,8 @@
 <br/>
 
 <!-- ===== ABOUT (bullet style, like reference) ===== -->
-
-- ⚡ **Spending my days on** Next.js, TypeScript & modern full-stack engineering
-
-- 🧠 **Ping me about** React, Node.js, system design, and clean architecture
-
+- 🌱 **Currently learning** Generative AI & System Design
 - 📬 **Reach me at** muhammadusmanramzan586@gmail.com
-
-- 🌱 **Currently leveling up** my skills in AI-driven product development
-
-- 🎯 **My one rule** ship code I'd be proud to read six months later
-
----
 
 ## 🛠️ Technologies & Tools
 
