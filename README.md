@@ -69,16 +69,4 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadusman586&show_icons=true&hide_border=true&theme=react&icon_color=00D4FF&title_color=00D4FF" height="165"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=muhammadusman586&hide_border=true&theme=react&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165"/>
-</div>
-
-## My Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusman586&theme=react-dark&hide_border=true&color=00D4FF&line=00D4FF&point=ffffff&area=true" />
 </div>
