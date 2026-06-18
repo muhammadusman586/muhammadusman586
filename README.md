@@ -1,11 +1,11 @@
 <!-- ===== HEADER BANNER (venom style, like reference) ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Muhammad%20Usman%20Ramzan&fontSize=52&fontAlignY=35&desc=Software%20Engineer&descAlignY=60&descAlign=center&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Muhammad%20Usman%20&fontSize=52&fontAlignY=35&desc=Software%20Engineer&descAlignY=60&descAlign=center&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <!-- ===== TYPING SVG ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Usman+Ramzan;Software+Engineer+%7C+Lahore%2C+Pakistan;Shipping+Fast%2C+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Usman;Software+Engineer+%7C+Lahore%2C+Pakistan;Shipping+Fast%2C+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
 <br/>
